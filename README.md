@@ -5,12 +5,12 @@
 📘 Currently working on **academic and personal projects** to improve my skills and explore new technologies  
 🤝 Open to **collaborations** and always eager to learn something new!  
 
----
+
 
 ## 🌍 Connect with me  
 📧 Email: [claudia.maggiulli26@gmail.com](claudia.maggiulli26@gmail.com)  
 
----
+
 
 ## 🖥️ Programming Languages  
 
@@ -26,7 +26,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
 
----
 
 ## 🏗️ Frameworks & Libraries  
 
@@ -38,7 +37,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
----
 
 ## 🗄️ Databases  
 
@@ -46,13 +44,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
----
+
 
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cloud2602show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud2602&layout=compact&theme=radical)  
 
----
+
 
 🚀 Always learning and open to new challenges! Let's connect and collaborate! 😊  
